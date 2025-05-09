@@ -1,1 +1,1 @@
-# E_commerce_app
+# event_managment_system
